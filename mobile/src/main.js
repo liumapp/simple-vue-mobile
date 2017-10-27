@@ -9,10 +9,10 @@ import './config/rem'
 Vue.use(VueRouter)
 
 const router = new VueRouter({
-	routes
+  routes
 })
 
 new Vue({
-	router,
-	store,
+  router,
+  store,
 }).$mount('#app')
