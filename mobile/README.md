@@ -10,13 +10,11 @@
 
 >  开发环境 macOS 10.12.3  Chrome 56 nodejs 6.10.0
 
->  这个项目主要用于 vue2 + vuex 的入门练习，另外推荐一个 vue2 比较复杂的大型项目，覆盖了vuejs大部分的知识点。目前项目已经完成。[地址在这里](https://github.com/bailicangdu/vue2-elm)
-
 
 ## 项目运行（nodejs 6.0+）
 ``` bash
 # 克隆到本地
-git clone https://github.com/bailicangdu/vue2-happyfri.git
+
 
 # 进入文件夹
 cd vue2-happyfri
@@ -32,14 +30,6 @@ npm run build
 ```
 
 
-
-# 效果演示
-
-
-[demo地址](http://cangdu.org/happyfri/)（请用chrome手机模式预览）
-   
-### 移动端扫描下方二维码
-<img src='https://github.com/bailicangdu/vue2-happyfri/blob/master/src/images/ewm.png' width="300" height="300" />
 
 
 
